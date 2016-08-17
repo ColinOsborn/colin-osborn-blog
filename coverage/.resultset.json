@@ -1,0 +1,68 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/colinosborn/Turing/Mod3/colin-osborn-blog/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/colinosborn/Turing/Mod3/colin-osborn-blog/app/controllers/homepage_controller.rb": [
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/colinosborn/Turing/Mod3/colin-osborn-blog/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/colinosborn/Turing/Mod3/colin-osborn-blog/app/controllers/bikes_controller.rb": [
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/colinosborn/Turing/Mod3/colin-osborn-blog/app/controllers/calender_controller.rb": [
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/Users/colinosborn/Turing/Mod3/colin-osborn-blog/app/controllers/partners_controller.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/colinosborn/Turing/Mod3/colin-osborn-blog/app/controllers/photos_controller.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/colinosborn/Turing/Mod3/colin-osborn-blog/app/controllers/results_controller.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/colinosborn/Turing/Mod3/colin-osborn-blog/app/controllers/resume_controller.rb": [
+        1,
+        null,
+        1,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1471414209
+  }
+}
