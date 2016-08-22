@@ -5,3 +5,12 @@ body {
 .header-image {
   max-height: 300px;
 }
+
+.centered-header {
+  h2 {
+    text-align: center;
+  }
+  h3 {
+    text-align: center;
+  }
+}
